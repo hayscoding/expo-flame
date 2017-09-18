@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Fire",
-    "description": "An empty new project",
-    "slug": "Fire",
+    "name": "Flame",
+    "description": "3D Flame Shader",
+    "slug": "flame",
     "privacy": "public",
     "sdkVersion": "20.0.0",
     "version": "1.0.0",
