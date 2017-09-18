@@ -5,4 +5,5 @@ It uses so much GPU, that it should keep you pretty warm!
 <a href="https://codepen.io/EvanBacon/full/LzGpda/">CodePen - Web</a>
 <br>
 <a href="https://exp.host/@bacon/flame">Expo - Native</a>
-
+<br>
+<img src="./demo.png" width="281" height="500" />
